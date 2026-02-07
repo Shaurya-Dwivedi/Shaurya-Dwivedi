@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Shaurya
 
-<!--
-**Shaurya-Dwivedi/Shaurya-Dwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Building
 
-Here are some ideas to get you started:
+**OFA** - Campus platform serving 1,100+ students at IIT Jodhpur  
+ • SSL pinning • Root detection • Play Integrity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**RIFT** - Anonymous confessions using zero-knowledge proofs  
+ • Semaphore protocol • Cryptographic nullifiers
+
+## Open Source
+
+Contributing to Matrix (policy server URL filtering)
+
+## Reach Me
+
+📧 b24es1032@iitj.ac.in  
+🌐 [Portfolio](https://shaurya-dwivedi-portfolio.netlify.app/)
