@@ -16,19 +16,6 @@ OFA serving **1,100+ registered users** at IIT Jodhpur with **500+ daily active 
 
 **Tech:** React Native, Firebase, REST APIs, Expo.
 
----
-
-### Privacy-First Campus Platform
-Exploring cryptographic approaches to anonymous feedback systems.
-
-**Focus areas:**
-- Zero-knowledge proof implementations
-- Privacy-preserving identity verification
-- Secure anonymous communication protocols
-
-**Tech:** React Native, Cryptographic protocols, Firebase
-
----
 
 ## Open Source
 
