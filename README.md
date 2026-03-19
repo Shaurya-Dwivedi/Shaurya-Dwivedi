@@ -5,7 +5,7 @@
 ## Current Projects
 
 ### OFA - One For All
-OFA serving **1,100+ registered users** at IIT Jodhpur with **500+ daily active users**, has provided **over 4,000 hours** of utility to the student body in the last semester alone, with a **retention rate of ~60%**—outperforming most commercial utility apps.
+OFA serving **1,100+ registered users** at IIT Jodhpur with **500+ daily active users**, has provided **over 4,000 hours** of utility to the student body, with a **retention rate of ~60%**—outperforming most commercial utility apps.
 
 
 **Built for scale:**
