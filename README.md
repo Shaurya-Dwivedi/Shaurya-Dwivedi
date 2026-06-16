@@ -26,13 +26,13 @@
 
 ## Other Projects
 
-**[NetRoute-Sim](https://github.com/shaurya)** – Network packet routing simulator
+**[NetRoute-Sim](https://github.com/Shaurya-Dwivedi/netroute-sim)** – Network packet routing simulator
 Kruskal's, Prim's, Dijkstra's in pure C → compiled to WebAssembly via Emscripten for zero-server browser execution. Animated HTML5 Canvas visualizer with live packet transmission and MST comparison.
 
-**[Cortex](https://github.com/shaurya)** – AI-assisted email task manager *(Insomniac Hackathon, Feb 2026)*
+**[Cortex](https://github.com/Shaurya-Dwivedi/Cortex-Insomniac)** – AI-assisted email task manager *(Insomniac Hackathon, Feb 2026)*
 Gmail + Groq LLM integration that extracts and categorizes actionable tasks from email threads. Full-stack React app shipped in under 24 hours.
 
-**[Classroom Polling System](https://github.com/shaurya)** – Real-time polling across ESP firmware, REST backend, and web dashboard. Anonymous attendance tracking, concurrent submission handling, delivered in 6 weeks.
+**[Classroom Polling System](https://github.com/Shaurya-Dwivedi/poll)** – Real-time polling across ESP firmware, REST backend, and web dashboard. Anonymous attendance tracking, concurrent submission handling, delivered in 6 weeks.
 
 ---
 
