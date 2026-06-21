@@ -44,4 +44,4 @@ Gmail + Groq LLM integration that extracts and categorizes actionable tasks from
 
 ---
 
-📧 b24es1032@iitj.ac.in · [Portfolio](https://shaurya-dwivedi-portfolio.netlify.app/) · IIT Jodhpur
+📧 b24es1032@iitj.ac.in · [Portfolio](https://shaurya-dwivedi.vercel.app/) · IIT Jodhpur
